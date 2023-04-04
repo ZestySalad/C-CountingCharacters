@@ -1,0 +1,15 @@
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\bin\Debug\net7.0\Counting Characters.exe
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\bin\Debug\net7.0\Counting Characters.deps.json
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\bin\Debug\net7.0\Counting Characters.runtimeconfig.json
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\bin\Debug\net7.0\Counting Characters.dll
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\bin\Debug\net7.0\Counting Characters.pdb
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\obj\Debug\net7.0\Counting Characters.csproj.AssemblyReference.cache
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\obj\Debug\net7.0\Counting Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\obj\Debug\net7.0\Counting Characters.AssemblyInfoInputs.cache
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\obj\Debug\net7.0\Counting Characters.AssemblyInfo.cs
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\obj\Debug\net7.0\Counting Characters.csproj.CoreCompileInputs.cache
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\obj\Debug\net7.0\Counting Characters.dll
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\obj\Debug\net7.0\refint\Counting Characters.dll
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\obj\Debug\net7.0\Counting Characters.pdb
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\obj\Debug\net7.0\Counting Characters.genruntimeconfig.cache
+C:\Users\Bailey Lunsford\Desktop\C# Counting Chararcters\Counting Characters\obj\Debug\net7.0\ref\Counting Characters.dll
